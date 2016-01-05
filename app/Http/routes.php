@@ -22,10 +22,4 @@ Route::group(['middleware' => 'web'], function () {
 });
 
 //test git
-
-
 // test master bla bla bla
-/*asdasdasd
- * 
- * 
- * /
